@@ -1,4 +1,4 @@
-Class pgm
+class pgm
 {
 public static void main(String[] args)
 {
